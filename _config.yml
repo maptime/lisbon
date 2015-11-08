@@ -1,11 +1,11 @@
-baseurl: /starter
+baseurl: /lisbon
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: lisbon
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeLisbon
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
